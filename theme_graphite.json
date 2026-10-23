@@ -10,11 +10,6 @@
     "app_bar_hover_button": "#ffffff1e",
     "app_bar_hover_strong": "#ffffff28",
     "app_bar_hover_subtle": "#ffffff12",
-    "app_bar_icon": [
-      "#e0e0e0",
-      "#7a7a7a",
-      "#b0b0b0"
-    ],
     "app_bar_separator": "#555555",
     "app_bar_tab_active": "#2e2e2e",
     "app_bar_text": "#e0e0e0",
@@ -54,6 +49,21 @@
     "dimension_driven": "#909090",
     "error": "#f06460",
     "field": "#1e1e1e",
+    "file_background": "#1e1e1e",
+    "file_border": "#3d3d3d",
+    "file_dim": "#999999",
+    "file_image_tint": "#ffffff",
+    "file_primary": "#3a3a3a",
+    "file_primary_border": "#8b8b8b",
+    "file_primary_ink": "#e0e0e0",
+    "file_rail": "#2a2a2a",
+    "file_rail_hover": "#383838",
+    "file_rail_ink": "#e0e0e0",
+    "file_recovery": "#43331c",
+    "file_recovery_border": "#73582b",
+    "file_recovery_ink": "#f5cc89",
+    "file_recovery_well": "#5c4420",
+    "file_surface": "#242424",
     "form_accent": "#7b63a6",
     "form_dim": "#949494",
     "form_error": "#f06460",
@@ -75,53 +85,15 @@
     "glyph_text": "#c16358",
     "grid": "#3a3a3a",
     "grid_major": "#484848",
-    "heading_bg": "#242424",
     "hover": "#383838",
     "hover_edge": "#000000",
     "hover_edge_halo": "#cbcbcb",
     "hover_profile": "#4a80ff30",
     "hover_profile_edge": "#4b81fd",
     "icon": "#d4d4d4",
-    "icon_fill": "#7a7a7a",
-    "icons.access": [
-      "#46b45a",
-      "#dc463c"
-    ],
     "icons.agent": "#a855f7",
-    "icons.axes": [
-      "#d23c3c",
-      "#3ca03c",
-      "#3c64dc"
-    ],
-    "icons.curvature": [
-      "#3c6ee6",
-      "#46be5a",
-      "#e13c2d"
-    ],
-    "icons.draft": [
-      "#46b45a",
-      "#ebc832"
-    ],
-    "icons.floor": "#3a3a3a",
-    "icons.fold": "#8a8a8a",
-    "icons.folder": "#ecc86e",
-    "icons.glint": "#ffffffa0",
     "icons.highlight": "#ffffff",
-    "icons.interference": "#e1463c",
     "icons.marker_halo": "#00000096",
-    "icons.paint": [
-      "#dc463c",
-      "#4696e6",
-      "#f0c83c"
-    ],
-    "icons.plane": "#f4d696",
-    "icons.sheet": "#aac8f0",
-    "icons.sheet_2": "#96b9eb",
-    "icons.sheet_light": "#d6e5f8",
-    "icons.sheet_line": "#7fa6da",
-    "icons.sky": "#becde6",
-    "icons.stripe": "#1e1e1e",
-    "icons.warning": "#fac83c",
     "interference": "#eb2d28",
     "logo": [
       "#609eec",
@@ -135,9 +107,9 @@
     "mesh_ink": "#d4b726",
     "mesh_soft": "#41391a",
     "on_accent": "#151515",
-    "origin_plane": "#4b81fd5e",
-    "origin_plane_edge": "#4b81fdc8",
-    "origin_plane_hover": "#4b81fd80",
+    "origin_plane": "#4c82fc5e",
+    "origin_plane_edge": "#4b81fcc8",
+    "origin_plane_hover": "#4c81fd80",
     "origin_point": "#d6d7da",
     "overlay": "#1f1f1ff0",
     "panel": "#242424",
@@ -176,7 +148,6 @@
     "sketch_point_free": "#5c96ff",
     "sketch_projected": "#963cbe",
     "sketch_soft": "#1f3b2b",
-    "subheading_bg": "#2a2a2a",
     "surface_accent": "#95682d",
     "surface_fill": "#b26a14",
     "surface_ink": "#e0914a",
@@ -199,5 +170,5 @@
     "warning": "#ecaa46"
   },
   "format": "solidcraft-theme/1",
-  "name": "Graphite"
+  "name": "id-Graphite"
 }
